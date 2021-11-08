@@ -5,7 +5,7 @@ This repository hosts artifacts, like BoF presentations, as supportive material 
 
 Please add a link to your presentation to this file in the format:
 
-BoF session title
-Presenter name
-Link to presentation or other artifacts
+BoF session title  
+Presenter name  
+Link to presentation or other artifacts  
 
