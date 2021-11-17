@@ -14,6 +14,9 @@ Please add a link to your presentation to this file using the template below
 *Andreas Herrmann*
 [Writing a Gazelle extension for `rules_haskell`](https://docs.google.com/presentation/d/1cUgbtPeDOSpI2o_21R2dQnPDPX0L2Hn4aaY1c6lm--w/edit?usp=sharing)
 
+*Eric Miller*, *Danny Wolf*
+[Parsing source code to automate a gradual Bazel migration](https://docs.google.com/presentation/d/1AyBD-N7JNxfqCBmPCM_aX8pUSKPYj_wdNY9B8gYlvic/edit?usp=sharing)
+
 ### External Dependencies
 
 *Yun Peng*, *Xudong Yang*
