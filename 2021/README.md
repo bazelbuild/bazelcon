@@ -17,6 +17,9 @@ Please add a link to your presentation to this file using the template below
 *Eric Miller*, *Danny Wolf*
 [Parsing source code to automate a gradual Bazel migration](https://docs.google.com/presentation/d/1AyBD-N7JNxfqCBmPCM_aX8pUSKPYj_wdNY9B8gYlvic/edit?usp=sharing)
 
+*Thulio Ferraz Assis*
+[Extending Gazelle to dynamic languages](https://docs.google.com/presentation/d/1NMS4V2qVlUjVldVRinsjyUxKueOnzYHhypLlGTMCWUY/edit?usp=sharing)
+
 ### External Dependencies
 
 *Yun Peng*, *Xudong Yang*
