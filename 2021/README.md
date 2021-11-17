@@ -9,3 +9,9 @@ Please add a link to your presentation to this file using the template below
 *Presenter name*
 [Link to presentation or other artifacts](https:/...)
 
+### External Dependencies
+
+*Yun Peng*, *Xudong Yang*
+
+[Presentation slides](https://docs.google.com/presentation/d/19LHXd9ZovsS5c_tYbYE9zAiTzMq347C73t2ND_TIMSQ/edit?resourcekey=0-JbabSWK25g48B8LXZbl8jA)
+
