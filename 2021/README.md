@@ -23,3 +23,8 @@ Please add a link to your presentation to this file using the template below
 
 [Presentation slides](https://docs.google.com/presentation/d/19LHXd9ZovsS5c_tYbYE9zAiTzMq347C73t2ND_TIMSQ/edit?resourcekey=0-JbabSWK25g48B8LXZbl8jA)
 
+### Using External Swift Packages in Bazel (`rules_spm`)
+
+*Chuck Grindel*
+
+[Using External Swift Packages in Bazel](https://docs.google.com/presentation/d/1RcFrs4Ao5ZDKkPml0RWRBUM2kfMciE8ZVuRQv-zRTiE/edit?usp=sharing)
