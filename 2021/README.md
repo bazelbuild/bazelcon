@@ -3,9 +3,9 @@
 This repository hosts artifacts, like BoF presentations, as supportive material for 
 [BazelCon 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021).
 
-Please add a link to your presentation to this file in the format:
+Please add a link to your presentation to this file using the template below
 
-BoF session title  
-Presenter name  
-Link to presentation or other artifacts  
+### BoF session title 
+*Presenter name*
+[Link to presentation or other artifacts](https:/...)
 
