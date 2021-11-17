@@ -9,6 +9,11 @@ Please add a link to your presentation to this file using the template below
 *Presenter name*
 [Link to presentation or other artifacts](https:/...)
 
+### Build File Generation
+
+*Andreas Herrmann*
+[Writing a Gazelle extension for `rules_haskell`](https://docs.google.com/presentation/d/1cUgbtPeDOSpI2o_21R2dQnPDPX0L2Hn4aaY1c6lm--w/edit?usp=sharing)
+
 ### External Dependencies
 
 *Yun Peng*, *Xudong Yang*
