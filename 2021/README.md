@@ -18,6 +18,9 @@ Please add a link to your presentation to this file using the template below
 [Sabre's Journey
 to a Bazel Monorepo](https://drive.google.com/file/d/18UUFevOLHUKVimxmDhl9G49lK_txmU0o/view?usp=sharing)
 
+*Yi Cheng*
+[Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://drive.google.com/file/d/1N3-aza4Ql-JECbdUeei_ZglQcohoa5Bl/view?usp=sharing)
+
 ### Build File Generation
 
 *Andreas Herrmann*
