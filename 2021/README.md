@@ -39,3 +39,8 @@ to a Bazel Monorepo](https://drive.google.com/file/d/18UUFevOLHUKVimxmDhl9G49lK_
 ### iOS
 
 *Chuck Grindel* [Using External Swift Packages in Bazel - rules_spm](https://docs.google.com/presentation/d/1RcFrs4Ao5ZDKkPml0RWRBUM2kfMciE8ZVuRQv-zRTiE/edit?usp=sharing)
+
+### Web
+
+*Greg Magolan*
+[Building Web Applications with Bazel](https://docs.google.com/presentation/d/10qqLig5BHZVCKyJi-vLCbUg3LLDd0WJoUl1R3ghDQWI/edit?usp=sharing)
