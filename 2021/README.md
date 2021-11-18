@@ -9,9 +9,9 @@ Please add a link to your presentation to this file using the template below
 *Presenter name*
 [Link to presentation or other artifacts](https:/...)
 
-### Driving a Language-Agnostic CI/CD Pipeline using Bazel
+### CI/Testing
 *Dan Cohn*
-[Presentation](https://drive.google.com/file/d/1ScJY4YS9EsGY7UGPPBw6Gmo66kx6fZMf/view?usp=sharing)
+[Driving a Language-Agnostic CI/CD Pipeline using Bazel](https://drive.google.com/file/d/1ScJY4YS9EsGY7UGPPBw6Gmo66kx6fZMf/view?usp=sharing)
 
 ### Build File Generation
 
