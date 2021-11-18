@@ -39,3 +39,7 @@ to a Bazel Monorepo](https://drive.google.com/file/d/18UUFevOLHUKVimxmDhl9G49lK_
 ### iOS
 
 *Chuck Grindel* [Using External Swift Packages in Bazel - rules_spm](https://docs.google.com/presentation/d/1RcFrs4Ao5ZDKkPml0RWRBUM2kfMciE8ZVuRQv-zRTiE/edit?usp=sharing)
+
+### Web
+*Vasilios Pantazopoulos*
+[Migrating from NPM+TS+Webpack to Bazel](https://docs.google.com/presentation/d/1p-MmI25zuzsexnsvxQvPGkaaWhCQKE8zDY14MwqekKE/edit?usp=sharing)
