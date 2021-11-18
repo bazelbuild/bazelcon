@@ -5,13 +5,13 @@ This repository hosts artifacts, like BoF presentations, as supportive material 
 
 Please add a link to your presentation to this file using the template below
 
-### Driving a Language-Agnostic CI/CD Pipeline using Bazel
-*Dan Cohn*
-[Presentation](https://drive.google.com/file/d/1ScJY4YS9EsGY7UGPPBw6Gmo66kx6fZMf/view?usp=sharing)
-
 ### BoF session title 
 *Presenter name*
 [Link to presentation or other artifacts](https:/...)
+
+### Driving a Language-Agnostic CI/CD Pipeline using Bazel
+*Dan Cohn*
+[Presentation](https://drive.google.com/file/d/1ScJY4YS9EsGY7UGPPBw6Gmo66kx6fZMf/view?usp=sharing)
 
 ### Build File Generation
 
