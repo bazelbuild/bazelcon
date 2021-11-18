@@ -31,3 +31,7 @@ Please add a link to your presentation to this file using the template below
 ### iOS
 
 *Chuck Grindel* [Using External Swift Packages in Bazel - rules_spm](https://docs.google.com/presentation/d/1RcFrs4Ao5ZDKkPml0RWRBUM2kfMciE8ZVuRQv-zRTiE/edit?usp=sharing)
+
+### Web
+*Vasilios Pantazopoulos*
+[Migrating from NPM+TS+Webpack to Bazel](https://docs.google.com/presentation/d/1p-MmI25zuzsexnsvxQvPGkaaWhCQKE8zDY14MwqekKE/edit?usp=sharing)
