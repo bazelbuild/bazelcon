@@ -41,6 +41,8 @@ to a Bazel Monorepo](https://drive.google.com/file/d/18UUFevOLHUKVimxmDhl9G49lK_
 
 ### iOS
 
+*Andrés Cecilia Luque* [Migrating Revolut-iOS to Bazel](Documents/Andres_Cecilia_Luque_Migrating_Revolut-iOS_to_Bazel.pdf)
+
 *Chuck Grindel* [Using External Swift Packages in Bazel - rules_spm](https://docs.google.com/presentation/d/1RcFrs4Ao5ZDKkPml0RWRBUM2kfMciE8ZVuRQv-zRTiE/edit?usp=sharing)
 
 ### Web
