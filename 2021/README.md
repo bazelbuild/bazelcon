@@ -21,6 +21,9 @@ to a Bazel Monorepo](https://drive.google.com/file/d/18UUFevOLHUKVimxmDhl9G49lK_
 *Yi Cheng*
 [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://drive.google.com/file/d/1N3-aza4Ql-JECbdUeei_ZglQcohoa5Bl/view?usp=sharing)
 
+*Pavlo Stavytskyi*
+[Automated migration to Bazel with Airin](https://docs.google.com/presentation/d/1zc8juqsC_b7wonfT_T4_a6H1wQuM4OX1YNtZ7z_UVlg/edit?usp=sharing&resourcekey=0-WUfBqaRbtDEWEYNCAx6zww)
+
 ### Build File Generation
 
 *Andreas Herrmann*
